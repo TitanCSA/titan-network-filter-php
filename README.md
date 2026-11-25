@@ -1,5 +1,11 @@
 # Titan-Network-Filter PHP SDK
 
+<!-- simple-start:start -->
+Use Titan-Network-Filter from a PHP app.
+
+**Start here.** Run `composer require titancsa/titan-network-filter`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
